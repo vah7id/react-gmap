@@ -1,5 +1,5 @@
 {
-  "name": "react-gmap",
+  "name": "react-ggmap",
   "version": "1.0.0",
   "description": "React Google Map Component Package",
   "main": "build/index.js",
@@ -109,7 +109,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "dependencies": {
+  "dependencies": { 
     "google-maps": "^3.2.1"
   }
 }
